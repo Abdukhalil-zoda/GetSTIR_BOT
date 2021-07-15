@@ -1,0 +1,25 @@
+packages/
+# Build results
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Click-Once directory
+publish/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
